@@ -1,7 +1,7 @@
 ---
 ID: 57
 post_title: Integração com Github
-author: phpzm
+author: William Correa
 post_date: 2016-08-05 20:17:19
 post_excerpt: ""
 layout: post
@@ -10,6 +10,8 @@ permalink: >
 published: true
 bfa_virtual_template:
   - hierarchy
+dsq_thread_id:
+  - "5043806019"
 ---
 <p style="text-align: justify;">Você deve estar se perguntando se faz sentindo ter um blog e um github integrados. Eu sinceramente ainda não se se faz sentido, mas vou expor as razões disso ;)</p>
 <p style="text-align: justify;">A iniciativa <strong>phpMZ</strong> é uma tentativa de integração dos desenvolvedores de software da nossa região. Tomamos como exemplo grupos de todo o país e do mundo para trazernos inspiração. Seguindo o forte desejo que o mundo do software demonstra em manter sempre o controle nas mãos de cada desenvolvedor é que pensamos na possibilidade de qualquer um poder fazer um Pull Request e publicar no Blog. Sendo assim considere-se convidado a participar com correções ou materiais que julgar necessário.</p>
