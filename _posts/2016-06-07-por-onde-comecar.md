@@ -1,7 +1,7 @@
 ---
 ID: 1
 post_title: Por onde começar
-author: phpzm
+author: William Correa
 post_date: 2016-06-07 14:32:08
 post_excerpt: ""
 layout: post
@@ -10,6 +10,8 @@ permalink: >
 published: true
 bfa_virtual_template:
   - hierarchy
+dsq_thread_id:
+  - "5043853643"
 ---
 <p style="text-align: justify;">A primeira coisa que o pessoal pergunta quando decide "mexer" com PHP é por onde começar.</p>
 <p style="text-align: justify;">O PHP é uma linguagem multi-paradigma interpretada, com tipagem fraca que pode ser usada em diversas plataformas e comumente utilizada sob o protocolo HTTP e no ambiente CLI. Isso quer dizer que ele é um faz-tudo! Pra quem usa é muito bom e pra quem está chegando agora a quantidade de possibilidades é fatalmente um artigo complicador, já que não se sabe nem por onde começar.</p>
