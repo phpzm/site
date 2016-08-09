@@ -10,6 +10,8 @@ permalink: >
 published: true
 bfa_virtual_template:
   - hierarchy
+dsq_needs_sync:
+  - "1"
 ---
 <p style="text-align: justify;">Recebi uma newsletter do Murilo Gun na qual ele dizia que estarmos atrasados é bom.</p>
 <p style="text-align: justify;">A princípio você fica chocado e pensa: Que estupidez é essa?! Por que estar atrasado é bom?</p>
@@ -19,22 +21,10 @@ bfa_virtual_template:
 <p style="text-align: justify;">Como eu comecei dizendo no início do post, estou falando sobre isso por conta de uma mensagem do Murilo (provavelmente do staff dele) e olha o caso que ele conta para exemplificar como o atraso do Brasil pode servir para os mais antenados como uma bola de cristal:</p>
 
 <blockquote>
-<pre style="text-align: justify;">Sabe aquele livro que eu tanto falo "Abundância", do Peter Diamandis?</pre>
-<pre>Eu comprei o livro no início de 2013, em inglês, quando ainda não havia sido lançado no Brasil. Foi nesse livro que eu conheci a Singularity University e resolvi me candidatar no final de 2013 (e fui aceito para o programa de 2014).</pre>
-<pre>Quando o livro começou a aparecer em destaque nas gôndolas das livrarias brasileiras, a inscrição para o programa de 2014 já havia encerrado.
+<p style="text-align: justify;">Sabe aquele livro que eu tanto falo "Abundância", do Peter Diamandis?</p>
+Eu comprei o livro no início de 2013, em inglês, quando ainda não havia sido lançado no Brasil. Foi nesse livro que eu conheci a Singularity University e resolvi me candidatar no final de 2013 (e fui aceito para o programa de 2014).
 
-E sabe o que aconteceu em 2015?
-
-As regras mudaram.
-
-A Singularity passou a ser de graça (eu paguei 30 mil dólares para ir), pois o Google resolveu bancar tudo.
-
-Quando eu soube disso, eu não fiquei puto tipo "Putz.. deveria ter ido no ano seguinte e economizado uma grana".
-
-Pelo contrário, eu fiquei aliviado "Ainda bem que eu entrei antes, pq agora que é de graça a concorrência vai ser assustadoramente grande"
-
-E foi exatamente isso que rolou em 2015: concorrência gigante e até o perfil das pessoas que são aceitas mudou.</pre>
-</blockquote>
+Quando o livro começou a aparecer em destaque nas gôndolas das livrarias brasileiras, a inscrição para o programa de 2014 já havia encerrado. E sabe o que aconteceu em 2015? As regras mudaram. A Singularity passou a ser de graça (eu paguei 30 mil dólares para ir), pois o Google resolveu bancar tudo. Quando eu soube disso, eu não fiquei puto tipo "Putz.. deveria ter ido no ano seguinte e economizado uma grana". Pelo contrário, eu fiquei aliviado "Ainda bem que eu entrei antes, pq agora que é de graça a concorrência vai ser assustadoramente grande" E foi exatamente isso que rolou em 2015: concorrência gigante e até o perfil das pessoas que são aceitas mudou.</blockquote>
 &nbsp;
 
 Como é possível ver, existe algo que pode ser chamado de "delay de conhecimento" no qual mesmo os principais meios de comunicação estão imersos. Não adianta você esperar sair nas revistas e sites brazukas como Galileu, Exame ou Veja. É preciso procurar a fonte deles! É preciso ir atrás para estar na frente (trocadilhos baratos)!
