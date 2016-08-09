@@ -36,7 +36,8 @@ Pelo contrário, eu fiquei aliviado "Ainda bem que eu entrei antes, pq agora que
 E foi exatamente isso que rolou em 2015: concorrência gigante e até o perfil das pessoas que são aceitas mudou.</pre>
 </blockquote>
 &nbsp;
-<p style="text-align: justify;">Como é possível ver, existe algo que pode ser chamado de "delay de conhecimento" no qual mesmo os principais meios de comunicação estão imersos. Não adianta você esperar sair nas revistas e sites brazukas como Galileu, Exame ou Veja. É preciso procurar a fonte deles! É preciso ir atrás para estar na frente (trocadilhos baratos)!</p>
+
+Como é possível ver, existe algo que pode ser chamado de "delay de conhecimento" no qual mesmo os principais meios de comunicação estão imersos. Não adianta você esperar sair nas revistas e sites brazukas como Galileu, Exame ou Veja. É preciso procurar a fonte deles! É preciso ir atrás para estar na frente (trocadilhos baratos)!
 <p style="text-align: justify;">Não tem muito tempo alguém me perguntou porque pagar por um curso se existe tanto material de graça na internet. A minha resposta é simples: o que tem na internet gratuito já é passado. O que precisamos é do pulo do gato, é da visão de quem está na vanguarda. Precisamos parar de apenas reproduzir e começar a produzir conhecimento.</p>
 &nbsp;
 
