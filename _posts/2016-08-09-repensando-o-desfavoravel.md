@@ -26,9 +26,9 @@ Eu comprei o livro no início de 2013, em inglês, quando ainda não havia sido 
 
 Quando o livro começou a aparecer em destaque nas gôndolas das livrarias brasileiras, a inscrição para o programa de 2014 já havia encerrado. E sabe o que aconteceu em 2015? As regras mudaram. A Singularity passou a ser de graça (eu paguei 30 mil dólares para ir), pois o Google resolveu bancar tudo. Quando eu soube disso, eu não fiquei puto tipo "Putz.. deveria ter ido no ano seguinte e economizado uma grana". Pelo contrário, eu fiquei aliviado "Ainda bem que eu entrei antes, pq agora que é de graça a concorrência vai ser assustadoramente grande" E foi exatamente isso que rolou em 2015: concorrência gigante e até o perfil das pessoas que são aceitas mudou.</blockquote>
 &nbsp;
-
-Como é possível ver, existe algo que pode ser chamado de "delay de conhecimento" no qual mesmo os principais meios de comunicação estão imersos. Não adianta você esperar sair nas revistas e sites brazukas como Galileu, Exame ou Veja. É preciso procurar a fonte deles! É preciso ir atrás para estar na frente (trocadilhos baratos)!
+<p style="text-align: justify;">Como é possível ver, existe algo que pode ser chamado de "delay de conhecimento" no qual mesmo os principais meios de comunicação estão imersos. Não adianta você esperar sair nas revistas e sites brazukas como Galileu, Exame ou Veja. É preciso procurar a fonte deles! É preciso ir atrás para estar na frente (trocadilhos baratos)!</p>
 <p style="text-align: justify;">Não tem muito tempo alguém me perguntou porque pagar por um curso se existe tanto material de graça na internet. A minha resposta é simples: o que tem na internet gratuito já é passado. O que precisamos é do pulo do gato, é da visão de quem está na vanguarda. Precisamos parar de apenas reproduzir e começar a produzir conhecimento.</p>
+<p style="text-align: justify;">Saltar rumo ao conhecimento em outros idiomas não é o único caminho para estar na frente no mercado de trabalho, é preciso conseguir o equilíbrio de olhar para o futuro sem romper com o passado, esse é o desafio ; )</p>
 &nbsp;
 
 &nbsp;
