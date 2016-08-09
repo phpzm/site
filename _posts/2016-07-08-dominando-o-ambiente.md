@@ -1,7 +1,7 @@
 ---
 ID: 23
-post_title: Dominando o ambiente
-author: phpzm
+post_title: '#1.2 Dominando o ambiente [série roadmap]'
+author: William Correa
 post_date: 2016-07-08 21:36:43
 post_excerpt: ""
 layout: post
@@ -10,6 +10,8 @@ permalink: >
 published: true
 bfa_virtual_template:
   - hierarchy
+dsq_thread_id:
+  - "5043853455"
 ---
 <p style="text-align: justify;">Se você já viu algo sobre linguagens de programação é provável que em algum momento você já tenha se familiarizado com a clássica sintaxe do <strong>C</strong>. O Java usa, o C# usa, muitas linguagens usam! Como essa é mais ou menos a mesma pegada do PHP, então a sintaxe da linguagem não me parece um problema. Creio que o gargalo para quem começa com o PHP seja compreender o que acontece de verdade entre o navegador e o servidor.</p>
 <p style="text-align: justify;">Esse é o segundo POST da nossa proposta de fazer uma trilha para quem está começando e ainda não vou falar de código. Vou falar de ciclo de vida, estado e coragem.</p>
