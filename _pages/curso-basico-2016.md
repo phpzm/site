@@ -12,7 +12,7 @@ bfa_virtual_template:
 ---
 Link para a apresentação
 
-https://docs.google.com/presentation/d/141cdPA7ntIJXRr0WGY-chsQUCEkusWn9gg33-R4qUCA/edit?usp=sharing
+<a href="https://docs.google.com/presentation/d/141cdPA7ntIJXRr0WGY-chsQUCEkusWn9gg33-R4qUCA/edit?usp=sharing">https://docs.google.com/presentation/d/141cdPA7ntIJXRr0WGY-chsQUCEkusWn9gg33-R4qUCA/edit?usp=sharing</a>
 
 &nbsp;
 
