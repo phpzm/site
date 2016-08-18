@@ -1,17 +1,17 @@
 ---
 ID: 81
-post_title: Como aprender a programar
+post_title: Aprendendo a programar
 author: William Correa
 post_date: 2016-08-18 00:05:15
 post_excerpt: ""
 layout: post
 permalink: >
-  http://phpzm.rocks/2016/08/18/como-aprender-a-programar/
+  http://phpzm.rocks/2016/08/18/aprendendo-a-programar/
 published: true
 bfa_virtual_template:
   - hierarchy
-dsq_needs_sync:
-  - "1"
+dsq_thread_id:
+  - "5074422434"
 ---
 <p style="text-align: justify;">Entre grupos, comunidades, listas e feeds sempre recebemos coisas interessantes para ler. Hoje li esse texto <a href="http://www.techdicas.net.br/2016/08/6-maneiras-comprovadas-para-aprender.html" target="_blank">aqui</a> e ao juntar este material com um tópico sobre a dificuldade de se aprender a programar que foi discussão na comunidade PHP Brasil a alguns meses atrás e conversas que troco com amigos cozinhei umas ideias aqui e vou expô-las agora.</p>
 <p style="text-align: justify;">Vamos imaginar que você fosse levado agora nesse momento a morar em uma cidade sub-aquática por 1 ano. Você, uma pessoa do mundo de terra, que vê o céu todos os dias estaria morando debaixo d'água junto com peixes e anêmonas. Durante esse período veria muitas coisas diferentes e provavelmente teria que repensar sua alimentação, hábitos de vida e muitas outras coisas que faziam parte da sua rotina.</p>
