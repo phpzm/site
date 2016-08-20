@@ -10,7 +10,7 @@ published: true
 bfa_virtual_template:
   - hierarchy
 ---
-<h3>Link para a Slides:</h3>
+<h3>Link's para os slides:</h3>
 Aula 1 : Clique <a href="https://docs.google.com/presentation/d/141cdPA7ntIJXRr0WGY-chsQUCEkusWn9gg33-R4qUCA/edit?usp=sharing">aqui</a> para visualizar
 
 Aula 2: Clique <a href="https://docs.google.com/presentation/d/1evuDJj53MAp0SEzQllLnMbPkSho69oMuk_U0XygYyiI/edit?usp=sharing">aqui</a> para visualizar
