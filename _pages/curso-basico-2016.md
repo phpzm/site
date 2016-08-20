@@ -20,3 +20,13 @@ https://telegram.me/phpbrasil
 https://plus.google.com/communities/106163623473782778474
 
 https://plus.google.com/communities/104245651975268426012
+<h3>Link's importantes:</h3>
+<a href="http://php.net/manual/en/getting-started.php">http://www.php.net/</a>
+
+<a href="http://br.phptherightway.com/">http://br.phptherightway.com/</a>
+
+<a href="http://www.php-fig.org/">http://www.php-fig.org/</a>
+
+<a href="https://github.com/">https://github.com/</a>
+
+<a href="https://getcomposer.org/">https://getcomposer.org/</a>
