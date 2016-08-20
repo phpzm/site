@@ -10,10 +10,13 @@ published: true
 bfa_virtual_template:
   - hierarchy
 ---
-Link para a apresentação
+<h3>Link para a Slides:</h3>
+Aula 1 : Clique <a href="https://docs.google.com/presentation/d/141cdPA7ntIJXRr0WGY-chsQUCEkusWn9gg33-R4qUCA/edit?usp=sharing">aqui</a> para visualizar
 
-<a href="https://docs.google.com/presentation/d/141cdPA7ntIJXRr0WGY-chsQUCEkusWn9gg33-R4qUCA/edit?usp=sharing">https://docs.google.com/presentation/d/141cdPA7ntIJXRr0WGY-chsQUCEkusWn9gg33-R4qUCA/edit?usp=sharing</a>
+Aula 2: Clique <a href="https://docs.google.com/presentation/d/1evuDJj53MAp0SEzQllLnMbPkSho69oMuk_U0XygYyiI/edit?usp=sharing">aqui</a> para visualizar
+<h3>PHP por ai:</h3>
+https://telegram.me/phpbrasil
 
-&nbsp;
+https://plus.google.com/communities/106163623473782778474
 
-&nbsp;
+https://plus.google.com/communities/104245651975268426012
