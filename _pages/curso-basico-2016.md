@@ -76,7 +76,7 @@ Clique <a href="http://phpzm.rocks/wp-content/uploads/2016/08/Aplicações-Web-c
 </ul>
 <h4>Aula 8:</h4>
 <ul>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Instalação de pacotes com composer</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Instalação de pacotes</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Gerenciadores de Templates</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Rotas Avançadas</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Integração entre Templates, Modelos e Controladores</span></li>
