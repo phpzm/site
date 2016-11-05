@@ -106,7 +106,9 @@ Clique <a href="http://phpzm.rocks/wp-content/uploads/2016/08/Aplicações-Web-c
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Construtores de Queries</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Ajax</span></li>
 </ul>
-<h3></h3>
+
+<hr />
+
 <h3>PHP por ai:</h3>
 https://telegram.me/phpbrasil
 
@@ -121,6 +123,10 @@ https://plus.google.com/communities/104245651975268426012
 <a href="http://www.php-fig.org/">http://www.php-fig.org/</a>
 
 <a href="https://github.com/">https://github.com/</a>
+
+<a href="https://github.com/phpzm">https://github.com/phpzm</a>
+
+<a href="https://github.com/phpzm/php-fullstack-roadmap">https://github.com/phpzm/php-fullstack-roadmap</a>
 
 <a href="https://getcomposer.org/">https://getcomposer.org/</a>
 
