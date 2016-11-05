@@ -59,7 +59,7 @@ Clique <a href="http://phpzm.rocks/wp-content/uploads/2016/08/Aplicações-Web-c
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Atributos</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Instâncias</span></li>
 </ul>
-<h4><strong>Aula 6:</strong></h4>
+<h4>Aula 6:</h4>
 <ul>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Introdução ao PSR-4</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Bibliotecas</span></li>
@@ -67,21 +67,21 @@ Clique <a href="http://phpzm.rocks/wp-content/uploads/2016/08/Aplicações-Web-c
  	<li style="font-weight: 400;"><span style="font-weight: 400;">URL amigável</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Introdução a Rotas</span></li>
 </ul>
-<h4><strong>Aula 7:</strong></h4>
+<h4>Aula 7:</h4>
 <ul>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Introdução à Controladores</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Introdução à Modelos</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Relacionando Controladores e Rotas</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Relacionando Modelos e Controladores</span></li>
 </ul>
-<h4><strong>Aula 8:</strong></h4>
+<h4>Aula 8:</h4>
 <ul>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Instalação de pacotes com composer</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Gerenciadores de Templates</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Rotas Avançadas</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Integração entre Templates, Modelos e Controladores</span></li>
 </ul>
-<h4><strong>Aula 9:</strong></h4>
+<h4>Aula 9:</h4>
 <ul>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Introdução ao SQL</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Comandos DDL</span></li>
@@ -89,14 +89,14 @@ Clique <a href="http://phpzm.rocks/wp-content/uploads/2016/08/Aplicações-Web-c
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Segurança, Transação e Consistência</span></li>
  	<li style="font-weight: 400;">Utilização de MySQL com PHP</li>
 </ul>
-<h4><strong>Aula 10:</strong></h4>
+<h4>Aula 10:</h4>
 <ul>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Conexão FTP</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Configuração do ambiente de produção</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Publicação de Sistemas</span></li>
 </ul>
 &nbsp;
-<h4><strong>Aulas Extras:</strong></h4>
+<h4>Aulas Extras:</h4>
 <ul>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Criando rotas para sites</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Composição de Views</span></li>
