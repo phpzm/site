@@ -53,12 +53,59 @@ Clique <a href="http://phpzm.rocks/wp-content/uploads/2016/08/Aplicações-Web-c
 </ul>
 <h4>Aula 5:</h4>
 <ul>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Classes e Objetos</span></li>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Introdução ao PSR</span></li>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Extensões</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Princípios de Orientação a Objeto</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Classes</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Métodos</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Atributos</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Instâncias</span></li>
+</ul>
+<h4><strong>Aula 6:</strong></h4>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Introdução ao PSR-4</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Bibliotecas</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Frameworks</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">URL amigável</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Introdução a Rotas</span></li>
 </ul>
+<h4><strong>Aula 7:</strong></h4>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Introdução à Controladores</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Introdução à Modelos</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Relacionando Controladores e Rotas</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Relacionando Modelos e Controladores</span></li>
+</ul>
+<h4><strong>Aula 8:</strong></h4>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Instalação de pacotes com composer</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Gerenciadores de Templates</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Rotas Avançadas</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Integração entre Templates, Modelos e Controladores</span></li>
+</ul>
+<h4><strong>Aula 9:</strong></h4>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Introdução ao SQL</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Comandos DDL</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Comandos DML</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Segurança, Transação e Consistência</span></li>
+</ul>
+<h4><strong>Aula 10:</strong></h4>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Conexão FTP</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Configuração do ambiente de produção</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Publicação de Sistemas</span></li>
+</ul>
+&nbsp;
+<h4><strong>Aulas Extras:</strong></h4>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Criando rotas para sites</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Composição de Views</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Autenticação de Usuários</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Login com oAuth</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Paginação</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Construtores de Queries</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Ajax</span></li>
+</ul>
+<h3></h3>
 <h3>PHP por ai:</h3>
 https://telegram.me/phpbrasil
 
