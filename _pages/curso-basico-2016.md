@@ -87,6 +87,7 @@ Clique <a href="http://phpzm.rocks/wp-content/uploads/2016/08/Aplicações-Web-c
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Comandos DDL</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Comandos DML</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Segurança, Transação e Consistência</span></li>
+ 	<li style="font-weight: 400;">Utilização de MySQL com PHP</li>
 </ul>
 <h4><strong>Aula 10:</strong></h4>
 <ul>
